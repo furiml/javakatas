@@ -1,5 +1,5 @@
 /* Adrien Scrève 2018
- * http://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java
+ * https://www.codewars.com/kata/duplicate-encoder/train/java
 */
 
 public class DuplicateEncoder {
